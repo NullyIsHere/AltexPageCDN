@@ -1,0 +1,11 @@
+[
+        
+        ["Anima't, vinga.", "Naya Gallardo"],
+        ["Tothom té dret a plorar, desfogat.", "Naya Gallardo"], 
+        ["No miris endarrere, segueix a davant.", "Naya Gallardo"],
+        ["Sé el cambio que deseas ver en el mundo.", "ChatGPT"],
+        ["La vida es 10% lo que nos sucede y 90% cómo reaccionamos ante ello.", "ChatGPT"],
+        ["El éxito es la suma de pequeños esfuerzos repetidos día tras día.", "ChatGPT"],
+        ["No hay atajos para ningún lugar que valga la pena ir.", "ChatGPT"],
+        ["El único lugar donde el éxito viene antes que el trabajo es en el diccionario.", "ChatGPT"]
+    ]
